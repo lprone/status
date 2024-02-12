@@ -8,7 +8,7 @@ sites:
   - name: Neo Viewer Index
     url: http://neoclinica.ddns.net
   - name: Neo Study View
-    url: http://neoclinica.ddns.net/viewer/1.2.410.200001.1.1103.1994861964.1.20220706.1113845606.730.1
+    url: http://neoclinica.ddns.net/viewer/$STUDY_ID
 
 
 assignees: # Users to assign downtime issues (optional)
