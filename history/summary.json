@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1064,
-    "timeDay": 1501,
-    "timeWeek": 1074,
-    "timeMonth": 1060,
-    "timeYear": 1064,
+    "time": 1058,
+    "timeDay": 816,
+    "timeWeek": 1045,
+    "timeMonth": 1038,
+    "timeYear": 1058,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer-index",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 644,
-    "timeDay": 877,
-    "timeWeek": 840,
-    "timeMonth": 730,
-    "timeYear": 644,
-    "dailyMinutesDown": {
-      "2024-03-18": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 647,
+    "timeDay": 779,
+    "timeWeek": 831,
+    "timeMonth": 740,
+    "timeYear": 647,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Neo Study View",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-study-view",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 259,
-    "timeDay": 337,
-    "timeWeek": 318,
-    "timeMonth": 286,
-    "timeYear": 259,
-    "dailyMinutesDown": {
-      "2024-03-18": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 260,
+    "timeDay": 297,
+    "timeWeek": 315,
+    "timeMonth": 290,
+    "timeYear": 260,
+    "dailyMinutesDown": {}
   }
 ]
