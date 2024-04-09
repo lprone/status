@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1040,
-    "timeDay": 920,
-    "timeWeek": 893,
-    "timeMonth": 1019,
-    "timeYear": 1040,
+    "time": 1038,
+    "timeDay": 887,
+    "timeWeek": 896,
+    "timeMonth": 1007,
+    "timeYear": 1038,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer-index",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 710,
-    "timeDay": 920,
-    "timeWeek": 799,
-    "timeMonth": 832,
-    "timeYear": 710,
+    "uptimeYear": "99.98%",
+    "time": 711,
+    "timeDay": 778,
+    "timeWeek": 801,
+    "timeMonth": 827,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2024-03-28": 20
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 297,
+    "timeDay": 293,
     "timeWeek": 300,
-    "timeMonth": 318,
+    "timeMonth": 316,
     "timeYear": 279,
     "dailyMinutesDown": {}
   }
