@@ -22,10 +22,10 @@
     "url": "http://neoclinica.ddns.net",
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer-index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 760,
@@ -34,6 +34,7 @@
     "timeMonth": 864,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2024-05-06": 1,
       "2024-03-28": 20
     }
   },
@@ -42,7 +43,7 @@
     "url": "http://neoclinica.ddns.net/viewer/$STUDY_ID",
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-study-view",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +54,8 @@
     "timeWeek": 342,
     "timeMonth": 328,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   }
 ]
