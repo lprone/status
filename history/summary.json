@@ -13,7 +13,7 @@
     "time": 1034,
     "timeDay": 807,
     "timeWeek": 954,
-    "timeMonth": 986,
+    "timeMonth": 985,
     "timeYear": 1034,
     "dailyMinutesDown": {}
   },
@@ -22,9 +22,9 @@
     "url": "http://neoclinica.ddns.net",
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer-index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
@@ -34,6 +34,7 @@
     "timeMonth": 1230,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2024-05-20": 0,
       "2024-05-06": 75,
       "2024-03-28": 20
     }
@@ -43,9 +44,9 @@
     "url": "http://neoclinica.ddns.net/viewer/$STUDY_ID",
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-study-view",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.95%",
@@ -55,6 +56,7 @@
     "timeMonth": 409,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2024-05-20": 0,
       "2024-05-06": 74
     }
   }
