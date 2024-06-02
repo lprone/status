@@ -24,19 +24,19 @@
     "url": "http://200.58.123.167:3457",
     "icon": "https://icons.duckduckgo.com/ip3/200.58.123.167.ico",
     "slug": "grafana-neo",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 671,
-    "timeDay": 594,
-    "timeWeek": 649,
-    "timeMonth": 671,
-    "timeYear": 671,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1011,
+    "timeDay": 2843,
+    "timeWeek": 1205,
+    "timeMonth": 1011,
+    "timeYear": 1011,
     "dailyMinutesDown": {
-      "2024-06-02": 2
+      "2024-06-02": 30
     }
   },
   {
