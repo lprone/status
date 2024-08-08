@@ -25,10 +25,10 @@
     "url": "http://200.58.123.167:3457",
     "icon": "https://icons.duckduckgo.com/ip3/200.58.123.167.ico",
     "slug": "grafana-neo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 697,
@@ -37,6 +37,7 @@
     "timeMonth": 636,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2024-08-08": 1,
       "2024-06-02": 30
     }
   },
@@ -45,10 +46,10 @@
     "url": "http://neoclinica.ddns.net",
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer-index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 868,
@@ -57,6 +58,7 @@
     "timeMonth": 850,
     "timeYear": 868,
     "dailyMinutesDown": {
+      "2024-08-08": 1,
       "2024-05-20": 111,
       "2024-05-06": 75,
       "2024-03-28": 20
@@ -67,9 +69,9 @@
     "url": "http://neoclinica.ddns.net/viewer/$STUDY_ID",
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-study-view",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -79,6 +81,7 @@
     "timeMonth": 313,
     "timeYear": 321,
     "dailyMinutesDown": {
+      "2024-08-08": 0,
       "2024-05-20": 111,
       "2024-05-06": 74
     }
