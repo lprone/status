@@ -4,17 +4,17 @@
     "url": "https://www.lprone.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.lprone.com.ar.ico",
     "slug": "lprone",
-    "status": "down",
+    "status": "up",
     "uptime": "64.18%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "89.46%",
-    "uptimeMonth": "89.44%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "89.31%",
+    "uptimeMonth": "89.41%",
     "uptimeYear": "17.05%",
-    "time": 448,
-    "timeDay": 552,
-    "timeWeek": 715,
-    "timeMonth": 689,
-    "timeYear": 392,
+    "time": 449,
+    "timeDay": 718,
+    "timeWeek": 729,
+    "timeMonth": 692,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2025-07-11": 379,
       "2026-05-06": 285,
@@ -350,7 +350,7 @@
       "2026-06-20": 112,
       "2026-06-19": 12,
       "2026-06-21": 207,
-      "2026-06-23": 1
+      "2026-06-23": 16
     }
   },
   {
@@ -370,7 +370,7 @@
     "timeMonth": 0,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2026-06-23": 3,
+      "2026-06-23": 19,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -700,7 +700,7 @@
     "timeMonth": 0,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2026-06-23": 3,
+      "2026-06-23": 19,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -1045,7 +1045,7 @@
     "timeMonth": 0,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2026-06-23": 3,
+      "2026-06-23": 19,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
