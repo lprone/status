@@ -5,12 +5,6 @@ repo: status # The name of this repository
 sites:
   - name: Lprone
     url: https://www.lprone.com.ar
-  - name: Grafana Neo
-    url: http://200.58.123.167:3457
-  - name: Neo Viewer Index
-    url: http://neoclinica.ddns.net
-  - name: Neo Study View
-    url: http://neoclinica.ddns.net/viewer/$STUDY_ID
 
 
 assignees: # Users to assign downtime issues (optional)
